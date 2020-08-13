@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Charm&display=swap');
+
+*{
+    margin: 10px;
+    padding: 10px;
+}
+
+h1{
+    font-family: 'Charm', cursive;
+    text-align: right;
+    float: left;
+}
+
+h2{
+    font-family: 'Charm', cursive;
+    float: right;
+    text-align: center;
+    padding-right: 0px;
+}
+
+h3{
+    font-family: 'Charm', cursive;
+}
